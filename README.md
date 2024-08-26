@@ -19,7 +19,7 @@ The Decentralized Crypto Exchange allows users to:
 5. **View** their portfolio to see all tokens they own.
 
 Contract Address of TokenSwap.sol is "0xf0911CAEDECD042973EBF5469A6B873Fc57AA6C2"
-This platform is built using Ethereum smart contracts, React, and Ethers.js.
+This project has been deployed to sepolia test network.
 
 ## Technologies Used
 
